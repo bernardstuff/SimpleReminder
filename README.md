@@ -15,11 +15,11 @@ Just [Google Chrome](https://www.google.com/chrome/)... maybe a text editor like
 ## Important
 1. **reminder** should only be run from the **Run** dialog but **remindme** can be used from both **Run** the **CMD Prompt**
 2. **Examples:** ```reminder 1s Your reminder text here``` or ```remindme 1s Your reminder text here```
-3. You can substitute ```1s``` for ```2s``` or ```2m``` or ```2h``` for hour minutes or seconds
+3. You can substitute ```1s``` for ```2s``` or ```2m``` or ```2h``` for hours minutes or seconds
 
 ## Usage
 1. Open the **Run** dialog (Win + R), Type **reminder 1s This is so simple** press Enter
 2. In a **CMD Prompt** type ```remindme 2h Start preparing dinner``` press Enter
 
 ## Message
-Dont like the theme? Hackit! it just html and css on online 👍
+Dont like the theme? Hackit! it just html and css 👍
